@@ -1,2 +1,6 @@
 # Personal-Website
-AWS + Namecheap
+## AWS + Namecheap domain
+Please visit my homepage at:
+www.jingyizhou.com
+OR
+jingyizhou.com
